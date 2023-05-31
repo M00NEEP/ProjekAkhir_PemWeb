@@ -1,0 +1,47 @@
+.slogan{
+  position: absolute;
+  top: 45%;
+  left: 35%;
+  width: 100%;
+  z-index: -1;
+  padding: 0 20px;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+.slogan h3{
+  font-size: 40px;
+  color: #F97E2A;
+}
+.slogan h4{
+  font-size: 30px;
+  position: absolute;
+  left: 32%;
+  color: #F97E2A;
+}
+
+.isi{
+  position: absolute;
+  top: 60%;
+  left: 15.5%;
+  width: 60%;
+  z-index: -1;
+  padding: 0 20px;
+  text-align: left;
+}
+.isi h5{
+  font-weight: normal;
+  font-size: 15px;
+  color: #F97E2A;
+}
+.isi h6{
+  font-size: 15px;
+  font-weight: normal;
+  color: #F97E2A;
+}
+.isi h7{
+  position: absolute;
+  top: 110%;
+  font-size: 15px;
+  font-weight: normal;
+  color: #F97E2A;
+}
